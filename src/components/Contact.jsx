@@ -10,7 +10,7 @@ const Contact = () => (
     <p>Phone: +91 9526121657</p>
     <p>Location: Kottayam, Kerala, India</p>
     <div className="mt-3">
-      <a href="https://github.com/jiksonmathew" className="btn btn-dark m-1">
+      <a href="mailto:jiksonmathew14@gmail.com" className="btn btn-dark m-1">
         GitHub
       </a>
       <a
